@@ -309,6 +309,9 @@ img{
 .skills__wordpress{
 	width: 80%;
 }
+.skills__photography{
+  width: 75%;
+}
 .skills__img{
   border-radius: .7rem;
 }
